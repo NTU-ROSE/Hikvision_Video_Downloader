@@ -1,5 +1,6 @@
 # A Tool for Downloading Video Clips from Hikvision VMS
-A simple command line tool for quickly downloading video clips from Hikvision VMS. Currently only work in Linux X64 system.
+A simple command line tool for quickly downloading video clips from Hikvision VMS. 
+Currently only work in Linux X64 system.
 
 ### Compile
 ``` bash
