@@ -28,4 +28,4 @@ __Hikvision_Video_Downloader Class: 3 inputs__
 ```
 
 ### TODO
-[] Windows Compatible
+- [ ] Windows Compatible
